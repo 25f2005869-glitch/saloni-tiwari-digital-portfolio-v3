@@ -1,0 +1,34 @@
+[
+  {
+    "title": "IIT Madras BS Degree in Data Science and Applications",
+    "category": "Academic programme",
+    "status": "In progress",
+    "date": "Diploma Level",
+    "details": "Current coursework and project-based learning.",
+    "published": 1
+  },
+  {
+    "title": "B.Sc. Mathematics — Magadh University",
+    "category": "Academic programme",
+    "status": "In progress",
+    "date": "Undergraduate",
+    "details": "Mathematics studies.",
+    "published": 1
+  },
+  {
+    "title": "Business Data Management — 100-day repository",
+    "category": "Learning repository",
+    "status": "Learning documentation",
+    "date": "100 days",
+    "details": "Day-wise course-aligned learning repository.",
+    "published": 1
+  },
+  {
+    "title": "Modern Application Development — 100-day repository",
+    "category": "Learning repository",
+    "status": "Learning documentation",
+    "date": "100 days",
+    "details": "HTML, CSS, JavaScript, Flask and SQLite learning path.",
+    "published": 1
+  }
+]

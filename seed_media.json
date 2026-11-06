@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Professional portrait",
+    "category": "Professional Photos",
+    "file": "assets/photos/saloni-professional-portrait.png",
+    "description": "Main professional profile photograph.",
+    "published": 1
+  },
+  {
+    "title": "Alternate portrait",
+    "category": "Professional Photos",
+    "file": "assets/photos/saloni-portrait-alternate.png",
+    "description": "Additional portrait variation.",
+    "published": 1
+  },
+  {
+    "title": "Original profile photograph",
+    "category": "Professional Photos",
+    "file": "assets/photos/saloni-original-profile.png",
+    "description": "Previously supplied profile photograph.",
+    "published": 1
+  },
+  {
+    "title": "Three-photo portrait strip",
+    "category": "Professional Photos",
+    "file": "assets/photos/saloni-three-photo-strip.png",
+    "description": "Additional portrait variations.",
+    "published": 1
+  },
+  {
+    "title": "E-Commerce Sales Dashboard preview",
+    "category": "Project Screenshots",
+    "file": "assets/projects/ecommerce-powerbi-preview.png",
+    "description": "Power BI project preview.",
+    "published": 1
+  },
+  {
+    "title": "Finance & FinTech Industry Analysis",
+    "category": "Project Screenshots",
+    "file": "assets/projects/finance-fintech-industry-analysis.png",
+    "description": "Finance & FinTech project thumbnail.",
+    "published": 1
+  }
+]

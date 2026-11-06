@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Python, C/C++ and JavaScript",
+    "category": "Programming",
+    "level": "Learning / applied in projects",
+    "details": "Python, C/C++ and JavaScript fundamentals.",
+    "published": 1
+  },
+  {
+    "title": "Data analysis and visualization",
+    "category": "Analytics",
+    "level": "Learning / applied in projects",
+    "details": "Pandas, NumPy, Excel, Matplotlib and Power BI.",
+    "published": 1
+  },
+  {
+    "title": "Databases and web development",
+    "category": "Development",
+    "level": "Learning / applied in projects",
+    "details": "SQL, SQLite, DBMS, HTML, CSS and Flask.",
+    "published": 1
+  },
+  {
+    "title": "Machine learning foundations",
+    "category": "Machine Learning",
+    "level": "Learning",
+    "details": "Scikit-learn, feature engineering and model evaluation.",
+    "published": 1
+  }
+]

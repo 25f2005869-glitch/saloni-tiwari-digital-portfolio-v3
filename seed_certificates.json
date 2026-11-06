@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Intro to Machine Learning",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/intro-machine-learning.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Intermediate Machine Learning",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/intermediate-machine-learning.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Feature Engineering",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/feature-engineering.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Advanced SQL",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/advanced-sql.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Pandas",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/pandas.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Data Visualization",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/data-visualization.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Intro to SQL",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "assets/certificates/intro-sql.png",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Intro to Programming",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "",
+    "description": "Certificate title recorded from user-provided credential list; separate image not included.",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Python",
+    "organization": "Kaggle",
+    "category": "Kaggle",
+    "file": "",
+    "description": "Certificate title recorded from user-provided credential list; separate image not included.",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Coursera certificate — Excel Intermediate",
+    "organization": "Coursera",
+    "category": "Coursera",
+    "file": "assets/certificates/excel-intermediate.pdf",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Coursera certificate — Excel Essentials",
+    "organization": "Coursera",
+    "category": "Coursera",
+    "file": "assets/certificates/excel-essentials.pdf",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Coursera certificate — Microsoft 365 Specialization",
+    "organization": "Coursera",
+    "category": "Coursera",
+    "file": "assets/certificates/coursera-microsoft365-specialization.pdf",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Coursera certificate — SQL Specialization",
+    "organization": "Coursera",
+    "category": "Coursera",
+    "file": "assets/certificates/coursera-sql-specialization.pdf",
+    "description": "",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "AWS Academy Cloud Foundations — Training Badge",
+    "organization": "AWS Academy",
+    "category": "AWS",
+    "file": "assets/certificates/aws-cloud-foundations.png",
+    "description": "20-hour training badge; not represented as a certification exam.",
+    "issue_date": "11 February 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Foundation Level Certificate — Programming and Data Science",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "assets/certificates/iitm-foundation-level.pdf",
+    "description": "Foundation Level completion certificate.",
+    "issue_date": "15 May 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Build Text Compressor using Huffman Coding",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Certificate of Appreciation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "20–21 September 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Introduction to LangChain: Chains, Retrieval and RAG",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Participation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "10–11 October 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Words as Vectors: From Linear Algebra to Word2Vec",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Participation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "18–19 September 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Getting Started with Hugging Face: Models, Datasets and AI Applications",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Participation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "16–17 September 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Ollama for Beginners: Running Open-Source LLMs Locally",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Participation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "12 October 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Data to Insights: Build Interactive Dashboards with Data Studio",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Appreciation. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Python, Plots & Pandas: Making Sense of Data",
+    "organization": "IIT Madras",
+    "category": "IIT Madras",
+    "file": "",
+    "description": "Excellence. Individual scan was not present in the supplied portfolio ZIP.",
+    "issue_date": "26–28 September 2026",
+    "status": "Completed",
+    "published": 1
+  },
+  {
+    "title": "Add your CBSE Class 10 certificate",
+    "organization": "CBSE",
+    "category": "CBSE",
+    "file": "",
+    "description": "Placeholder category only — upload your actual certificate to publish.",
+    "issue_date": "",
+    "status": "To add",
+    "published": 0
+  },
+  {
+    "title": "Add your Bihar Board Class 12 certificate",
+    "organization": "Bihar School Examination Board",
+    "category": "Bihar Board",
+    "file": "",
+    "description": "Placeholder category only — upload your actual certificate to publish.",
+    "issue_date": "",
+    "status": "To add",
+    "published": 0
+  },
+  {
+    "title": "Add your Magadh University certificate",
+    "organization": "Magadh University",
+    "category": "Magadh University",
+    "file": "",
+    "description": "Placeholder category only — upload your actual certificate to publish.",
+    "issue_date": "",
+    "status": "To add",
+    "published": 0
+  },
+  {
+    "title": "Add another university certificate",
+    "organization": "Other University",
+    "category": "Other University",
+    "file": "",
+    "description": "Placeholder category only — upload your actual certificate to publish.",
+    "issue_date": "",
+    "status": "To add",
+    "published": 0
+  },
+  {
+    "title": "Add another platform certificate",
+    "organization": "Other Platform",
+    "category": "Other Platform",
+    "file": "",
+    "description": "Placeholder category only — upload your actual certificate to publish.",
+    "issue_date": "",
+    "status": "To add",
+    "published": 0
+  }
+]

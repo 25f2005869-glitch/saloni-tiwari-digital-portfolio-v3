@@ -1,0 +1,34 @@
+[
+  {
+    "title": "BS Degree in Data Science and Applications",
+    "institution": "Indian Institute of Technology Madras",
+    "level": "Diploma Level · Term 2",
+    "status": "In progress",
+    "details": "Current programme. Coursework includes DBMS, Modern Application Development 1, Machine Learning Techniques and Business Data Management.",
+    "published": 1
+  },
+  {
+    "title": "B.Sc. Mathematics",
+    "institution": "Magadh University",
+    "level": "Undergraduate",
+    "status": "In progress",
+    "details": "Pursuing Mathematics alongside the IIT Madras BS programme.",
+    "published": 1
+  },
+  {
+    "title": "Class 12 — Bihar Board",
+    "institution": "Bihar School Examination Board",
+    "level": "Senior Secondary",
+    "status": "Add verified details",
+    "details": "Add passing year, stream and marks only when ready.",
+    "published": 0
+  },
+  {
+    "title": "Class 10 — CBSE",
+    "institution": "Central Board of Secondary Education",
+    "level": "Secondary",
+    "status": "Add verified details",
+    "details": "Add passing year and marks only when ready.",
+    "published": 0
+  }
+]

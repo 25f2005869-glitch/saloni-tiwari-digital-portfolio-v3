@@ -1,0 +1,36 @@
+SALONI TIWARI — COMPLETE PORTFOLIO v3
+
+IMPORTANT: This is now a Flask application, not a static-only GitHub Pages site. The private Admin Panel is protected by server-side password verification and session login.
+
+WINDOWS STARTUP
+1. Extract this folder.
+2. Right-click Start-Portfolio.ps1 and choose Run with PowerShell, OR open PowerShell in this folder and run:
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   .\run_local.ps1
+3. On first run, enter a strong private Admin password when prompted. Remember it; it is not stored in this ZIP.
+4. Open the public portfolio: http://127.0.0.1:5000
+5. Open Admin Login: http://127.0.0.1:5000/login
+   Username: saloni
+   Password: the password you created at startup.
+
+ADMIN FEATURES
+- Project Manager: add/edit/delete, category, tools, GitHub/demo URLs, image upload.
+- Certificate Manager: CBSE, Bihar Board, Magadh University, IIT Madras, AWS, Coursera, Kaggle, other universities/platforms. PDF/image uploads supported.
+- Media Manager: images, GIFs, videos, presentations and PDF/PPT/PBIX uploads.
+- Education, Skills, Achievements and Learning Journey managers.
+- JSON backup export and additive import. Existing records are not overwritten on import.
+
+PRESERVED CONTENT
+- Existing 28 curated project records and all 15 original project thumbnail files.
+- Finance & FinTech thumbnail, E-Commerce Power BI preview, PBIX and PDF.
+- Existing profile photographs and supplied Kaggle/Coursera/AWS/IITM certificate files.
+- Coursera remains 4 certificates covering 10 completed courses.
+- Kaggle count remains 9; only 7 Kaggle certificate images were present in the source ZIP. The remaining two records are listed without invented scans.
+- IIT Madras count remains 8; Foundation PDF is included and seven workshop records are listed without fabricated scans.
+- AWS item is accurately described as an AWS Academy Cloud Foundations training badge.
+
+PRIVACY & HOSTING
+- Never upload private school/university marksheets, IDs, date of birth, address, or confidential documents to a public website. The Magadh result PDF is not automatically exposed. Upload only documents you intentionally want public.
+- GitHub Pages cannot run this Flask backend or provide server-side private authentication. Keep the GitHub repository for source code if desired, but deploy the Flask app to a Python host (Render, Railway, etc.) with persistent disk/storage and environment variables ADMIN_USERNAME, ADMIN_PASSWORD, SECRET_KEY. Configure HTTPS and persistent storage before using hosted admin uploads.
+- The local server binds to 127.0.0.1 only, so it is available on this computer, not your public network.
+- Back up portfolio.db and static/uploads regularly.

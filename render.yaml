@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: saloni-tiwari-portfolio
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: ADMIN_USERNAME
+        value: saloni
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: COOKIE_SECURE
+        value: "1"
+    disk:
+      name: portfolio-data
+      mountPath: /opt/render/project/src/persistent
+      sizeGB: 1
+      - key: DATA_DIR
+        value: /opt/render/project/src/persistent

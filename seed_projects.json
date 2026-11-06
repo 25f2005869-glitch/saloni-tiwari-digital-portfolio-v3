@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Business Data Cleaning — Excel Project",
+    "category": "Excel & Data Analytics",
+    "description": "Excel · Python · Data cleaning",
+    "tools": "",
+    "image": "assets/projects/01.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Gender Diversity Analytics Dashboard",
+    "category": "Data Analytics",
+    "description": "Data analysis · Excel · Visualization",
+    "tools": "",
+    "image": "assets/projects/02.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Skills Availability & Role of HR",
+    "category": "Business Analytics",
+    "description": "HR analytics · Reporting",
+    "tools": "",
+    "image": "assets/projects/03.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Recruitment Process & Onboarding Analytics",
+    "category": "Business Analytics",
+    "description": "HR analytics · Process analysis",
+    "tools": "",
+    "image": "assets/projects/04.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Business Process Automation — Day 90",
+    "category": "Business Analytics",
+    "description": "Spreadsheets · Process analytics",
+    "tools": "",
+    "image": "assets/projects/05.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Process Integration — Results Presentation",
+    "category": "Business Analytics",
+    "description": "Business process · Reporting",
+    "tools": "",
+    "image": "assets/projects/06.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "HR Analytics — Business Presentation",
+    "category": "Business Analytics",
+    "description": "HR analytics · Data storytelling",
+    "tools": "",
+    "image": "assets/projects/07.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "HR Analytics Dashboard",
+    "category": "Data Analytics",
+    "description": "Excel · Dashboard · KPIs",
+    "tools": "",
+    "image": "assets/projects/08.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Composite Score & Ranking",
+    "category": "Data Analytics",
+    "description": "Scoring · Ranking · Analytics",
+    "tools": "",
+    "image": "assets/projects/09.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Inventory Analytics",
+    "category": "Business Analytics",
+    "description": "Inventory · Excel · Python",
+    "tools": "",
+    "image": "assets/projects/10.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Business Process Automation Dashboard",
+    "category": "Business Analytics",
+    "description": "Business process · Visualization",
+    "tools": "",
+    "image": "assets/projects/11.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Channel Effectiveness Analysis",
+    "category": "Business Analytics",
+    "description": "Marketing analytics · Excel",
+    "tools": "",
+    "image": "assets/projects/12.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Finance & Fintech Industry Analysis",
+    "category": "Finance & Research",
+    "description": "Finance · Fintech · Risk modelling · Python",
+    "tools": "",
+    "image": "assets/projects/finance-fintech-industry-analysis.png",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Sales Analytics — Excel & Python",
+    "category": "Data Analytics",
+    "description": "Sales analysis · Data visualization",
+    "tools": "",
+    "image": "assets/projects/14.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Selection Criteria Analytics",
+    "category": "Business Analytics",
+    "description": "Recruitment · Scoring · Dashboard",
+    "tools": "",
+    "image": "assets/projects/15.jpg",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "E-Commerce Sales & Customer Analytics Dashboard",
+    "category": "Power BI",
+    "description": "Power BI · Sales analytics · Customer insights",
+    "tools": "",
+    "image": "assets/projects/ecommerce-powerbi-preview.png",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "IPL Cricket Data Dashboard",
+    "category": "Dashboards",
+    "description": "Python · Data analysis · Cricket",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "India Growth & Development Dashboard (1991–2025)",
+    "category": "Economics",
+    "description": "Economic indicators · Data visualization",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Anekantavada Analytics Framework",
+    "category": "Python & AI",
+    "description": "Python · SQL · NLP · Machine learning",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Foundational Economics Series",
+    "category": "Economics",
+    "description": "Economics · Research · Data interpretation",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "India Economic Reforms Series",
+    "category": "Economics",
+    "description": "Economic history · Policy analysis",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Megasthenes India Reassessment",
+    "category": "Research",
+    "description": "Research · Data · Documentation",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Student Management System",
+    "category": "Web & Python",
+    "description": "Python · Flask · Database · CRUD",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Library Management System",
+    "category": "Python Applications",
+    "description": "Python · GUI · Data management",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Student Performance Dashboard",
+    "category": "Dashboards",
+    "description": "Data analysis · Student insights",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "MAD1 — 100-Day Web Development Learning Repository",
+    "category": "Learning Repositories",
+    "description": "HTML · CSS · JavaScript · Flask · SQLite",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "BDM — 100-Day Business Data Management Repository",
+    "category": "Learning Repositories",
+    "description": "Business data · Excel · Analytics · Dashboards",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  },
+  {
+    "title": "Python GUI Applications Collection",
+    "category": "Python Applications",
+    "description": "Python · Tkinter · Utility applications",
+    "tools": "",
+    "image": "",
+    "github_url": "",
+    "demo_url": "",
+    "published": 1
+  }
+]
